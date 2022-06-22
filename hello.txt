@@ -1,17 +1,4 @@
-hello world!
-hello world!
-hello world!
-hello world!
-hello world!
-hello world!
-hello world!
-hello world!
-hello world!
-hello world!
-hello world!
-hello world!
-hello world!
-hello world!
+hello hot-fix 	666!
 hello world!
 hello world!
 hello world!
